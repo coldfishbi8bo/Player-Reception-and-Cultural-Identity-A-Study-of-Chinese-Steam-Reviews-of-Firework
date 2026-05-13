@@ -4,7 +4,7 @@
 
 This repository contains the anonymized research materials, preprocessing outputs, and analysis scripts associated with the master’s thesis:
 
-> *Cultural Memory and Cultural Identity in Chinese Player Reviews of Firework: A Mixed Approach of Distant and Close Reading*
+*Player-Reception-and-Cultural-Identity-A-Study-of-Chinese-Steam-Reviews-of-Firework*
 
 The project investigates how Chinese players interpret locally grounded narrative elements and construct cultural identity through Steam review discourse surrounding the Chinese indie game *Firework* (《烟火》).
 
@@ -24,7 +24,7 @@ The project investigates how Chinese players interpret locally grounded narrativ
 | `wordcloud.png` | Chinese word cloud visualization |
 | `wordcloud_translation.png` | English-translated word cloud visualization |
 | `data_log.pdf` | Research log documenting data collection and preprocessing procedures (Chinese) |
-| `close_reading_sample.pdf` | Close reading sample archive containing selected review excerpts and analytical summaries. Sensitive details and identifiable expressions have been lightly paraphrased to reduce traceability. |
+| `close_reading_sample.pdf` | Close reading sample archive containing selected review excerpts and analytical summaries. Sensitive details and identifiable expressions have been lightly paraphrased to reduce traceability (Chinese). |
 | `firework_analysis.ipynb` | Jupyter Notebook containing preprocessing scripts and analysis code |
 
 ---
