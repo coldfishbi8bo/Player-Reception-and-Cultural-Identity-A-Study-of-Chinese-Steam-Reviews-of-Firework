@@ -14,7 +14,7 @@ The project investigates how Chinese players interpret locally grounded narrativ
 
 | File Name | Description |
 |---|---|
-| `firework_raw.xlsx` | Anonymized metadata dataset collected manually from Steam reviews. Raw review texts and player identifiers are excluded for ethical reasons. |
+| `firework_raw.xlsx` | Raw manually collected review data with metadata. Player IDs and raw text are excluded for privacy. |
 | `corpus_clean_text.txt` | Cleaned and preprocessed review corpus used for distant reading analysis |
 | `word_freq_raw.csv` | Raw word frequency table before stopword filtering |
 | `cn_stopwords.txt` | Initial Chinese stopword list |
@@ -24,7 +24,7 @@ The project investigates how Chinese players interpret locally grounded narrativ
 | `wordcloud.png` | Chinese word cloud visualization |
 | `wordcloud_translation.png` | English-translated word cloud visualization |
 | `data_log.pdf` | Research log documenting data collection and preprocessing procedures (Chinese) |
-| `close_reading_sample.pdf` | Close reading sample archive containing selected review excerpts and analytical summaries. Sensitive details and identifiable expressions have been lightly paraphrased to reduce traceability (Chinese). |
+| `close_reading_sample.pdf` | 38 sample for close reading(in Chinese). Texts are lightly paraphrased to prevent traceability. |
 | `firework_analysis.ipynb` | Jupyter Notebook containing preprocessing scripts and analysis code |
 
 ---
@@ -55,7 +55,6 @@ Main analysis procedures include:
 - Word frequency analysis
 - Bigram analysis
 - Word cloud visualization
-- Qualitative close reading
 
 ---
 
